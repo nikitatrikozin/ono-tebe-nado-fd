@@ -66,8 +66,8 @@
 
 .header__address {
   justify-self: end;
-  max-width: 240px;
   width: 100%;
+  max-width: 240px;
 }
 
 .cover {
